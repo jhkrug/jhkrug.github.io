@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               John Krug
 tagline:             ''
-description:         ''
+description:         'Some things to do with Library Systems and Analytics'
 url:                 http://jhkrug.gihub.io
 baseurl:             /
 paginate:            5
