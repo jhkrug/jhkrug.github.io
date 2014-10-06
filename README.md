@@ -1,2 +1,1 @@
-jhkrug.github.io
-================
+John Krug

@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               John Krug
+tagline:             ''
+description:         ''
+url:                 http://jhkrug.gihub.io
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              John Krug
+  url:               https://jhkrug.github.io
+  email:             j.krug@lancaster.ac.uk
+
+# Custom vars
+#version:             1.0.0
