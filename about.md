@@ -4,8 +4,9 @@ title: About & Archive
 ---
 
 John Krug. I work at [Lancaster University](http://www.lancaster.ac.uk)
-in the [library](http://lancaster.ac.uk/library) where I attempt to do
-things with library systems and analytics and maybe some linked data.
+in the [Library](http://lancaster.ac.uk/library) in the Digital Innovation
+team where I attempt to do things with library systems and analytics
+and maybe some linked data.
 
 <a href="/atom.xml">RSS</a>
 
