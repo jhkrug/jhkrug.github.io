@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Starting to blog
+tags:
+- jekyll
+- code
 ---
 
 So, I am being encouraged to start blogging about the work I do. I
@@ -30,19 +33,64 @@ have gone into all of this, mostly, open source software. Some of that
 software is very complex.  The end result is that I have something
 wonderfully simple to work with.
 
+But useful:
+
+###Code blocks
+{% highlight python %}
+def print_log(s):
+    caller = stack()[1][3]  # get the name of the calling function
+    q = """
+      insert into ldiv_log values (current_timestamp, '{}', '{}');
+    """.format(caller, s)
+    run_query(q)
+{% endhighlight %}
+
+###Lists
+
+1. first
+2. second
+ * a
+ * b
+
+###Tables
+
+| A         | B     |
+| --------- | -----:|
+| fsfdfsfd  |  £100 |
+| hjhds     |   £19 |
+| xcvd      |    £1 |
+
 To make a post I just type, into a file, using my preferred IDE, some
 simple [markdown](http://en.wikipedia.org/wiki/Markdown) text. Then
-I do a git add of the new post, test locally then a git push up to
+I do 'git add' of the new post, test locally then 'git push' up to
 [jhkrug.github.io](http://jhkrug.github.io). Simple.
 
 Just like this:
 
 {% highlight text %}
+###Lists
+
+1. first
+2. second
+ * a
+ * b
+
+###Tables
+
+| A         | B     |
+| --------- | -----:|
+| fsfdfsfd  |  £100 |
+| hjhds     |   £19 |
+| xcvd      |    £1 |
+
 To make a post I just type, into a file, using my preferred IDE, some
 simple [markdown](http://en.wikipedia.org/wiki/Markdown) text. Then
-I do a git add of the new post, test locally then a git push up to
+I do 'git add' of the new post, test locally then 'git push' up to
 [jhkrug.github.io](http://jhkrug.github.io). Simple.
 {% endhighlight %}
 
-Thanks to everyone who has made this possible.
+This feels like a nice way for a system administrator & would-be developer
+to maintain a blog.  Thanks to everyone who has made this possible.
+
+{% include twitter_plug.html %}
 
