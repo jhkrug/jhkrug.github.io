@@ -12,12 +12,13 @@ So, I am being encouraged to start blogging about the work I do. I
 thought the second post (the first was very brief) would be about the
 bits and pieces of technology I decided to use to make the blog.
 
-
 I wanted, something light, that would integrate easily with the way I'm
 currently doing things. I use Linux with the Pycharm IDE.  We use quite
 a bit of python, but the IDE is used for other things such as XML/XSL
 as well. Plenty of plugins are available, for example we can connect to
 the JIRA server to look at tasks and issues.
+
+<!--more-->
 
 I'm finding Pycharm a comfortable place to work with good version control
 integration with git.
@@ -31,7 +32,7 @@ and did some configuration.  Now, I have [Jekyll](http://jekyllrb.com/),
 [Lanyon](https://github.com/poole/lanyon), their various dependencies
 and nice looking blog.
 
-So, the point is vast amounts of time and collaboration
+The point is vast amounts of time and collaboration
 have gone into all of this, mostly, open source software. Some of that
 software is very complex. The end result is that I have something
 wonderfully simple to work with.
@@ -39,7 +40,7 @@ wonderfully simple to work with.
 But useful:
 
 ###Code blocks
-{% highlight python %}
+{% highlight python linenos %}
 def print_log(s):
     caller = stack()[1][3]  # get the name of the calling function
     q = """
