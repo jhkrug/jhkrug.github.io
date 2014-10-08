@@ -6,6 +6,7 @@ tags:
 - code
 - lanyon
 - blog
+- markdown
 ---
 
 So, I am being encouraged to start blogging about the work I do. I
