@@ -89,6 +89,10 @@ I do 'git add' of the new post, test locally then 'git push' up to
 [jhkrug.github.io](http://jhkrug.github.io). Simple.
 {% endhighlight %}
 
+[This](http://joshualande.com/jekyll-github-pages-poole/), from Joshua Lande, was very
+useful for integrating [Disqus](https://disqus.com/), Twitter and 
+Google Analytics.
+
 This feels like a nice way for a system administrator & would-be developer
 to maintain a blog. Thanks to everyone who has made this possible.
 
