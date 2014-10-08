@@ -4,6 +4,8 @@ title: Starting to blog
 tags:
 - jekyll
 - code
+- lanyon
+- blog
 ---
 
 So, I am being encouraged to start blogging about the work I do. I

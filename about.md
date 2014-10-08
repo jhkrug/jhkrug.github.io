@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About & Archive
+title: About
 ---
 
 John Krug. I work at [Lancaster University](http://www.lancaster.ac.uk)
@@ -10,12 +10,4 @@ and maybe some linked data. I'm on twitter ([@jhkrug](https://twitter.com/jhkrug
 
 <a href="/atom.xml">RSS</a>
 
-###Previously
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date | date: "%d/%m/%Y" }} - {{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
