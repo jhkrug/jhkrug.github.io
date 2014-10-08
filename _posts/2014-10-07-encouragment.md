@@ -12,6 +12,7 @@ So, I am being encouraged to start blogging about the work I do. I
 thought the second post (the first was very brief) would be about the
 bits and pieces of technology I decided to use to make the blog.
 
+
 I wanted, something light, that would integrate easily with the way I'm
 currently doing things. I use Linux with the Pycharm IDE.  We use quite
 a bit of python, but the IDE is used for other things such as XML/XSL
