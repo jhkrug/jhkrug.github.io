@@ -30,7 +30,7 @@ and nice looking blog.
 
 So, the point is vast amounts of time and collaboration
 have gone into all of this, mostly, open source software. Some of that
-software is very complex.  The end result is that I have something
+software is very complex. The end result is that I have something
 wonderfully simple to work with.
 
 But useful:
@@ -90,7 +90,7 @@ I do 'git add' of the new post, test locally then 'git push' up to
 {% endhighlight %}
 
 This feels like a nice way for a system administrator & would-be developer
-to maintain a blog.  Thanks to everyone who has made this possible.
+to maintain a blog. Thanks to everyone who has made this possible.
 
 {% include twitter_plug.html %}
 
