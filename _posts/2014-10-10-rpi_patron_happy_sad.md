@@ -15,7 +15,7 @@ for collecting some patron satisfaction data on leaving the library.
 
 'Did you manage to get done, what you came to the library for today?'
 
-We procured a Pi, some red and green buttons with LEDs, bit's of wire and 
+We procured a Pi, some red and green buttons with LEDs, bits of wire and 
 a break out board. Soldering not necessary, just a little wire stripping.
 
 <!--more-->
