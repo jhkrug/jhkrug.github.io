@@ -37,8 +37,8 @@ Finished!
 
 ![Finshed](/public/images/hsom.jpg)
 
-The data is collected in a Postgres database and then can displayed 
-and analysed within Tableau.
+The data is collected for analysis in a Postgres database and then 
+can be visualised within Tableau.
 
 ![tableau analysis](/public/images/hsom_tableau.png)
 
