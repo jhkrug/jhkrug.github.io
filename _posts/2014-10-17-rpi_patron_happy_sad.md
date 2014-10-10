@@ -11,7 +11,7 @@ Some time ago Masud Khokar
 ([email](mailto:masud.khokar"), [@mkhokhar](https://twitter.com/mkhokhar))
 suggested it would be a nice idea to 
 use a Raspberry Pi with a couple of buttons attached as a quick mechanism
-for collecting some patron satisfaction data on them leaving the library.
+for collecting some patron satisfaction data on leaving the library.
 
 'Did you manage to get done what you came to the library for today?'
 
