@@ -22,7 +22,7 @@ title: Home
         {% endcapture %}
         {% assign sortedtags = tags | split:' ' | sort %}
         {% for tag in sortedtags %}
-          <li><a href="/tags#{{ tag | cgi_escape }}">{{ tag }}</a></li>
+          <li><a href="/tags#{{ tag | cgi_escape }}">{{ tag | replace:'_',' ' }}</a></li>
         {% endfor %}
       </ul>
     </span>

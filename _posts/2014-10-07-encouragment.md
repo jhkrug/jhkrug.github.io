@@ -100,6 +100,3 @@ Google Analytics.
 
 This feels like a nice way for a system administrator & would-be developer
 to maintain a blog. Thanks to everyone who has made this possible.
-
-{% include twitter_plug.html %}
-
