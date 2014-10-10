@@ -8,7 +8,7 @@ tags:
 ---
 
 Some time ago Masud Khokar 
-([email](mailto:masud.khokar"), [mkhokhar](https://twitter.com/mkhokhar))
+([email](mailto:masud.khokar"), [@mkhokhar](https://twitter.com/mkhokhar))
 suggested it would be a nice idea to 
 use a Raspberry Pi with a couple of buttons attached as a quick mechanism
 for collecting some patron satisfaction data on them leaving the library.
