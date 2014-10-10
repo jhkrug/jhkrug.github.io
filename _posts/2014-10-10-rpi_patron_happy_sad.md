@@ -20,7 +20,8 @@ a break out board. Soldering not necessary, just a little wire stripping.
 
 <!--more-->
 
-The Pi has the Red Hat flavour of Linux installed. A short python program,
+The Pi has the Red Hat ([Pidora](http://pidora.ca) 
+flavour of Linux installed. A short python program,
 using the GPIO library, sets everything up and listens for button
 press events. When one is detected, the colour and time are logged to
 '/var/local/red_green_log'. The LED in the button is briefly lit up as
