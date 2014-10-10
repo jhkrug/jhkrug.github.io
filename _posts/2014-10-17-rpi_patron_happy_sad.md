@@ -13,7 +13,7 @@ suggested it would be a nice idea to
 use a Raspberry Pi with a couple of buttons attached as a quick mechanism
 for collecting some patron satisfaction data on leaving the library.
 
-'Did you manage to get done what you came to the library for today?'
+'Did you manage to get done, what you came to the library for today?'
 
 We procured a Pi, some red and green buttons with LEDs, bit's of wire and 
 a break out board. Soldering not necessary, just a little wire stripping.
