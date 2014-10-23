@@ -11,8 +11,8 @@ tags:
 Well, what was it? Social get together, workshop,
 [unconference](http://en.wikipedia.org/wiki/Unconference), extended
 chat, exchange of experience, inaugural SIG meeting? A bit of all that.
-I've wrote up the day on the wiki we agreed to set-up. These are personal
-reflections on the day.
+I've wrote up the day on the [wiki](https://lib-ldiv.lancs.ac.uk/dokuwiki)
+we agreed to set-up. These are personal reflections on the day.
 
 <!--more-->
 
