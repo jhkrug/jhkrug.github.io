@@ -58,7 +58,7 @@ The feedback received from 14 attendees indicates that 100% thought the
 day was worthwhile and 100% would come to another one. The next meeting
 will probably have a little more of a structured agenda, but I want to
 maintain some form of participant control of content on the day. I think
-it's quite likely the next meeting will be have more participants. I
+it's quite likely the next meeting will have more participants. I
 think there will be scope for splitting into groups for participant
 driven tutorials or mini 'hackathons', topics decided on interest and
 level of experience. The feedback indicated demand for more of this type
