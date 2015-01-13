@@ -67,7 +67,7 @@ with no issues. The only management involved is an occasional cleanup of
 the logs and backed up emails. Do note however, that due to the amount
 of cloud, internet and local infrastructure plumbing between Alma and
 the printer that printing of slips is not immediate as was the case
-with Alma. The slip can arrive at the printer seconds after the item
+with Aleph. The slip can arrive at the printer seconds after the item
 has been scanned. Sometimes it takes much longer. Email infrastructure
 is not designed for interactive work. This has entailed small changes
 to the local work flow.
