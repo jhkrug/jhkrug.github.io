@@ -6,11 +6,11 @@ title: About
 I work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) in the Digital Innovation
 team where I attempt to do things with library systems and analytics
-and maybe some linked data. 
+and maybe some linked data. I like bicycles ... a lot.
 
 I'm on twitter ([@jhkrug](https://twitter.com/jhkrug)).
 
-Views probably my own. 
+Views my own. 
 
 <a href="/atom.xml">RSS</a>
 
