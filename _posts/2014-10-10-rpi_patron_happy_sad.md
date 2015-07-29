@@ -44,7 +44,7 @@ can be visualised within Tableau.
 ![tableau analysis](/public/images/hsom_tableau.png)
 
 An interesting little project which we may get round to deploying. 
-A  nicer perspex case would be better.
+A nicer perspex case would be better.
 
 The python code:
 
