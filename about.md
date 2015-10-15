@@ -10,8 +10,6 @@ like bicycles ... a lot.
 
 I'm on twitter ([@jhkrug](https://twitter.com/jhkrug)).
 
-Views my own. 
-
 <a href="/atom.xml">RSS</a>
 
 
