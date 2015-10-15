@@ -4,6 +4,7 @@ layout: default
 
 <div class="post">
     <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-title">{{ page.subtitle }}</p>
     <span class="post-date">{{ page.date | date_to_string }}
     <ul class="tag-box inline" style="float:right;font-size:0.7em">
     {% capture tags %}
@@ -20,6 +21,7 @@ layout: default
     {{ content }}
     {% include twitter_plug.html %}
     {% include comments.html %}
+    {% include ga.html %}
 </div>
 
 <!--
