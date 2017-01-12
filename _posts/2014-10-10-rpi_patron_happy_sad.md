@@ -48,7 +48,7 @@ A nicer perspex case would be better.
 
 The python code:
 
-{% highlight none %}
+~~~~
 #!/usr/bin/env python2.7  
 from __future__ import print_function
 import RPi.GPIO as GPIO  
@@ -138,6 +138,6 @@ if __name__ == "__main__":
         except KeyboardInterrupt:  
             GPIO.cleanup()
             sys.exit()
-{% endhighlight %}
+~~~~
 
 
