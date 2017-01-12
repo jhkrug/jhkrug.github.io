@@ -48,7 +48,7 @@ A nicer perspex case would be better.
 
 The python code:
 
-{% highlight python linenos %}
+{% highlight none %}
 #!/usr/bin/env python2.7  
 from __future__ import print_function
 import RPi.GPIO as GPIO  
