@@ -15,7 +15,7 @@ relative_permalinks: false
 title:               John Krug
 tagline:             ''
 description:         'Some things to do with Library Systems and Analytics. And maybe bicycles and other things.'
-url:                 http://jhkrug.gihub.io
+url:                 https://jhkrug.gihub.io
 baseurl:             /
 paginate:            10
 
