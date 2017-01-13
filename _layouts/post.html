@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.title }} <a href="https://twitter.com/share" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></h1>
     <p class="post-title">{{ page.subtitle }}</p>
     <span class="post-date">{{ page.date | date_to_string }}
     <ul class="tag-box inline" style="float:right;font-size:0.7em">
@@ -19,12 +19,9 @@ layout: default
     {% endfor %}
     </ul></span>
     {{ content }}
-    {% include twitter_plug.html %}
-    <!-- {% include comments.html %} -->
     {% include ga.html %}
 </div>
 
-<!--
 <div class="related">
   <h2>Related Posts</h2>
   <ul class="related-posts">
@@ -40,4 +37,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
--->
