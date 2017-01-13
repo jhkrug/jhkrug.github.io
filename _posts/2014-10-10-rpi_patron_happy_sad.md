@@ -5,10 +5,11 @@ tags:
 - python
 - patron_satisfaction
 - raspberry_pi
+- library
 ---
 
 Some time ago Masud Khokar 
-([email](mailto:masud.khokar"), [@mkhokhar](https://twitter.com/mkhokhar))
+([@mkhokhar](https://twitter.com/mkhokhar))
 suggested it would be a nice idea to 
 use a Raspberry Pi with a couple of buttons attached as a quick mechanism
 for collecting some patron satisfaction data on leaving the library.

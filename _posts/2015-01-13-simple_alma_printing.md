@@ -4,6 +4,8 @@ title: Simple Alma printing
 tags:
 - alma
 - printing
+- library
+- Ex_Libris
 ---
 
 Quite some time before implementing Alma we had decided that we would no
