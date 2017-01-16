@@ -18,10 +18,11 @@ I'm interested in:
 * library management systems
 * Europe
 * cycling for sport, leisure and transport
+* sometimes other things
 
 Get in contact at:
 
-* email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) (preferable)
+* email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) (preferred)
 * email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
