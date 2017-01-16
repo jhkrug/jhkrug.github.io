@@ -13,8 +13,7 @@ library systems and analytics.
 
 I'm interested in:
 
-* data, it's storage, retrieval, processing and analysis
-* privacy
+* library data, it's storage, retrieval, processing, protection and analysis
 * analytics and visualisation
 * library management systems
 * politics
