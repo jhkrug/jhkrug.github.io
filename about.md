@@ -16,7 +16,6 @@ I'm interested in:
 * library data, it's storage, retrieval, processing, protection and analysis
 * analytics and visualisation
 * library management systems
-* politics
 * Europe
 * cycling for sport, leisure and transport
 
