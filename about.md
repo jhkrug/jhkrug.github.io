@@ -3,13 +3,25 @@ layout: page
 title: About
 ---
 
-I used to work at [Lancaster University](http://www.lancaster.ac.uk) in
-the [Library](http://lancaster.ac.uk/library) in the Digital Innovation
-team where I did things with library systems and analytics. Since
-March 2017, I work as an independent consultant in library systems and
-analytics.
-
 Husband, dad, granddad, cyclist. 
+
+I used to work at [Lancaster University](http://www.lancaster.ac.uk)
+in the [Library](http://lancaster.ac.uk/library) as part of the
+Digital Innovation team where I did things with library systems and
+analytics. Since March 2017, I work as an independent consultant in
+library systems and analytics.
+
+I'm interested in:
+
+* data, it's storage, retrieval, processing and analysis
+* privacy
+* analytics and visualisation
+* library management systems
+* politics
+* Europe
+* cycling for sport, leisure and transport
+
+
 
 Get in contact at:
 
