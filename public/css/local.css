@@ -1,0 +1,19 @@
+.sm-buttons {
+	width: 100%;
+	float: center;
+}
+
+.sm-button-list ul {
+	margin: auto 0;
+}
+
+.sm-button-list li {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	text-decoration: none;
+	white-space: normal;
+	/*width: 30%;*/
+	vertical-align: middle;
+	margin:3px 0 0 3px;
+}
