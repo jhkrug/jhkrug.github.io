@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-![](/public/images/me_and_gs_reading.png)
+![Get them early](/public/images/me_and_gs_reading.png "Get them early")
 *Get them early*
 
 Husband, dad, granddad, cyclist. 
@@ -11,7 +11,7 @@ Husband, dad, granddad, cyclist.
 I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
 Digital Innovation team where I did things with library systems and
-analytics. Since April 2017, I work as an independent consultant in
+analytics. Since April 2017, I work as a consultant in
 library systems and analytics.
 
 I'm interested in:
