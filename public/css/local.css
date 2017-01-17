@@ -14,3 +14,15 @@
 	margin: 0 0 0 10px;
 	position: relative;
 }
+
+a+em {
+	display: block;
+	margin: -10px 0 0 0;
+	font-size: 70%;
+}
+
+img+em {
+	display: block;
+	margin: -10px 0 0 0;
+	font-size: 70%;
+}

@@ -1,14 +1,17 @@
 ---
 layout: page
-title: About
+title: About me
 ---
+
+![](/public/images/me_and_gs_reading.png)
+*Get them early*
 
 Husband, dad, granddad, cyclist. 
 
 I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
 Digital Innovation team where I did things with library systems and
-analytics. Since March 2017, I work as an independent consultant in
+analytics. Since April 2017, I work as an independent consultant in
 library systems and analytics.
 
 I'm interested in:
@@ -16,7 +19,7 @@ I'm interested in:
 * library data, it's storage, retrieval, processing, protection and analysis
 * analytics and visualisation
 * library management systems
-* Europe
+* Europe and being European
 * cycling for sport, leisure and transport
 * sometimes other things
 
