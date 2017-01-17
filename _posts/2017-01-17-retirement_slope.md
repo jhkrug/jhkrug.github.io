@@ -17,7 +17,7 @@ tags:
 
 It's time to begin semi-retirement. On 31<sup>st</sup> January I leave
 the Digital Innovation team at Lancaster University Library, my place
-of work for almost 15 years. I'll miss my colleagues, I hope some may
+of work for almost 15 years. I'll miss my colleagues, I hope some will
 miss me.
 
 It'll be a long process as I'm not 'retiring' but changing how and
