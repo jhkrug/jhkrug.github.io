@@ -132,9 +132,12 @@ projects. Some recent things of note:
 	believe, to go live in the world.
 
 	* As it's first coordinator and with the help of the rest of
-	the volunteers I got the IGeLU/ELUNA Analytics SIWG started.
+	the volunteers I got the
+	[IGeLU](http://igelu.org/)/[ELUNA](http://el-una.org/)
+	Analytics SIWG started.
 
-	* Committee member with the EPUG-UKI user group.
+	* Committee member with the
+	[EPUG-UKI](http://www.epuguki.org/) user group.
 
 	* Organised EPUG-UKI Analytics days in 2014 and 2015 for
 	presentations, workshops and sharing experience.
