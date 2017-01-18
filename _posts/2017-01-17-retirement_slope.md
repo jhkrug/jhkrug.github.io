@@ -95,7 +95,7 @@ Experience and qualifications
 How am I qualified for this? I have no current CV, it's been a long time
 since one has been necessary. But, briefly:
 
-* MSc in Software Systems at Sheffield, way back when things like
+* MSc in Software Systems at Sheffield, way back when 
 [4GLs](https://en.wikipedia.org/wiki/Fourth-generation_programming_language)
 and
 [SSADM](https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method)
