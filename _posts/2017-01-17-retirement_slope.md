@@ -145,8 +145,8 @@ projects. Some recent things of note:
 	* Developing a prototype backend for a RDM analytics/reporting
 	system, funded by JISC.
 	
-	* Completing an [ILM](https://www.i-l-m.com/) management
-	development programme.
+	* Completing an [ILM](https://www.i-l-m.com/) Level 5 Award in
+	Leadersip and Management.
 
 	* Managing to end up with a great manager. Thanks
 	[Masud](https://twitter.com/mkhokhar).
