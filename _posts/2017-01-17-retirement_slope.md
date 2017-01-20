@@ -146,7 +146,7 @@ projects. Some recent things of note:
 	system, funded by JISC.
 	
 	* Completing an [ILM](https://www.i-l-m.com/) Level 5 Award in
-	Leadersip and Management.
+	Leadership and Management.
 
 	* Managing to end up with a great manager. Thanks
 	[Masud](https://twitter.com/mkhokhar).
