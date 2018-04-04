@@ -13,7 +13,7 @@ relative_permalinks:	false
 title:					John Krug
 tagline:				' - library systems and analytics'
 description:			'Some things to do with Library Systems and Analytics. Maybe occasionally bicycles and other things.'
-url:					https://jhkrug.github.io
+url:					https://jhkrug.github.io/
 baseurl:				/
 paginate:				10
 
