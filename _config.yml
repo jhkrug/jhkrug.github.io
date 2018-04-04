@@ -7,14 +7,13 @@ plugins:				["jekyll-paginate"]
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:				pretty
-relative_permalinks:	false
+#relative_permalinks:	false
 
 # Setup
 title:					John Krug
 tagline:				' - library systems and analytics'
 description:			'Some things to do with Library Systems and Analytics. Maybe occasionally bicycles and other things.'
-url:					/
-# url:					https://jhkrug.github.io
+url:					https://jhkrug.github.io
 baseurl:				/
 paginate:				10
 
@@ -25,7 +24,5 @@ author:
   email:				jhkrug@protonmail.com
 
 excerpt_separator: "\n\n"
-
-
 
 theme: jekyll-theme-slate
