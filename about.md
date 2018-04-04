@@ -30,6 +30,10 @@ Get in contact at:
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
 
+Here are a couple of references from:
+* [Masud Khokhar, Assistant Director: Digital Innovation and Research Services, Lancaster University Library](/public/references/MK-JK-ref.pdf)
+* [David Summers, Deputy Director of Library Services, Lancaster University Library (retd.)](/public/references/DS-JK-ref.pdf)
+
 If you use it ..... <a href="/atom.xml">Atom</a>.
 
 
