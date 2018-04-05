@@ -12,7 +12,7 @@ tags:
 For no particular reason[^1] I thought I'd share some of the views and
 graffiti I've seen while out cycling, enjoying semi-retirement, near
 Padul and Durcal. If you've been to Spain you'll know there is plenty
-of graffiti of various political persuasion to go along with the usual
+of graffiti on various themes persuasion to go along with the usual
 tagging and knob and balls. No doubt I'm misinterpreting some of the
 language.
 
