@@ -16,7 +16,7 @@ of graffiti of various political persuasion to go along with the usual
 tagging and knob and balls. No doubt I'm misinterpreting some of the
 language.
 
-[^1]:Other than reacquainting myself with markdown, github pages and jekyll.
+[^1]:Other than reacquainting myself with git, markdown, github pages and jekyll.
 
 <!--more-->
 
