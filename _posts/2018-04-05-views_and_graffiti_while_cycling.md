@@ -47,7 +47,7 @@ impunity.
 "Greenpeace, etc")](/public/images/greenpeace.jpg)
 *Greenpeace, etc*
 
-Dove, star of david = nazism, feminst disobedience, anarchy symbol,
+Dove, star of david = nazism, feminist disobedience, anarchy symbol,
 ee.uu = nazism (ee.uu means the USA), solidarity with the shipyards
 struggle.
 
