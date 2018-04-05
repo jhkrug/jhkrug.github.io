@@ -24,7 +24,7 @@ Apparently, imported from France when it proved to be too weak for
 traffic and trams. It's for pedestrians and cyclists and spans Durcal
 Gorge. There has been at least one suicide. On the bridge approach
 pillars is the graffiti 'si tu saltas yo salto'. Poignantly, 'if you
-jump I fall', or maybe less so, 'if you jump I jump'.
+jump I fall', or maybe, 'if you jump I jump'.
 
 [![Puente de Lata](/public/images/bridge_1.jpg 
 "Puente de Lata")](/public/images/bridge_1.jpg)
