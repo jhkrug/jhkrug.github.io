@@ -16,7 +16,8 @@ library systems and analytics.
 
 I'm interested in:
 
-* library data, it's storage, retrieval, processing, protection and analysis
+* library data, it's storage, retrieval, processing, protection and
+analysis
 * analytics and visualisation
 * library management systems
 * Europe and being European
@@ -25,14 +26,20 @@ I'm interested in:
 
 Get in contact at:
 
-* email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) or [jhkrug@pm.me](mailto:jhkrug@pm.me)
+* email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) or
+[jhkrug@pm.me](mailto:jhkrug@pm.me)
 * email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
+* Phone: +44 7866 735 348 - You can use voice, Signal, Telegram or
+Whatsapp
 
-Here are a couple of references from:
-* [Masud Khokhar, Assistant Director: Digital Innovation and Research Services, Lancaster University Library](/public/references/MK-JK-ref.pdf)
-* [David Summers, Deputy Director of Library Services, Lancaster University Library (retd.)](/public/references/DS-JK-ref.pdf)
+Here are a couple of PDF format references from:
+* [Masud Khokhar, Assistant Director: Digital
+Innovation and Research Services, Lancaster University
+Library](/public/references/MK-JK-ref.pdf)
+* [David Summers, Deputy Director of Library Services, Lancaster
+University Library (retd.)](/public/references/DS-JK-ref.pdf)
 
 If you use it ..... <a href="/atom.xml">Atom</a>.
 

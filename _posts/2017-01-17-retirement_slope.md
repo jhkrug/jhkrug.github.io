@@ -57,11 +57,13 @@ What would I like to be involved with?
 A non-exclusive list, maybe to include working on something open
 source, maybe something else ...
 
-* Being a mentor. Is there an early career systems librarian or two
-who would like a mentor? I've never tried this before, it's an
-experiment and we'll be learning from each other. Maybe it won't work
-out. The emphasis will be on the career and systems side as I'm not a
-qualified librarian. Of course, I won't charge for this.
+* Being a mentor. Is there an early career systems librarian or two who
+would like a mentor? I've never tried this before, it's an experiment
+and we'll be learning from each other. Maybe it won't work out. The
+emphasis will be on the career and systems side as I'm not a qualified
+librarian. Of course, I won't charge for this. (*Update - 11/04/2018*:
+This is on hold at the moment. I simply don't have the time. It may be
+revisited. Apologies to those who got in contact about this.)
 
 * Alma and Aleph Library Analytics training and projects. Do you need
 some reporting/analytics doing? Perhaps you don't have the skills
