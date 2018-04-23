@@ -6,7 +6,7 @@ title: About me
 ![Get them early](/public/images/me_and_gs_reading.png "Get them early")
 *Get them early*
 
-Husband, dad, granddad, cyclist. 
+Husband, dad, grandad, cyclist. 
 
 I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
