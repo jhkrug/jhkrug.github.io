@@ -24,6 +24,10 @@ analysis
 * cycling for sport, leisure and transport
 * sometimes other things
 
+There is more detail about consultancy work [here]({% post_url
+2017-01-17-retirement_slope %}#what-would-i-like-to-be-involved-with)
+and [here]({% post_url 2018-04-06-work_plan %}).
+
 Get in contact at:
 
 * email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) or
@@ -45,3 +49,11 @@ If you use it ..... <a href="/atom.xml">Atom</a>.
 
 
 
+Wondering about the favicon? Probably not. Anyway it's a compression of
+this.
+
+![No privatisation](/public/images/np.jpg "No privatisation")
+*No privatisation*
+
+A photo I took of a poster protesting the privatisation of street
+lighting. I think it was in Seville a few years ago.
