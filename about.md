@@ -35,7 +35,7 @@ Get in contact at:
 * email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
-* Phone: +44 7866 735 348 - You can use voice, Signal, Telegram or
+* Phone: +34 644 334 591 - You can use voice, Signal, Telegram or
 Whatsapp
 
 Here are a couple of PDF format references from:
