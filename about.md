@@ -58,4 +58,6 @@ this.
 A photo I took of a poster protesting the privatisation of street
 lighting. I think it was in Seville a few years ago.
 
-<a href="https://veloviewer.com/athlete/1010469/"><img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdefghij.png"></a>
+Strava
+
+<img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdefghij.png">
