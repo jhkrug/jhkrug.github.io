@@ -59,5 +59,8 @@ A photo I took of a poster protesting the privatisation of street
 lighting. I think it was in Seville a few years ago.
 
 Strava
+------
 
-<img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdefghij.png">
+I'm on Strava as jhkrug if you want to look me up.
+
+<img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
