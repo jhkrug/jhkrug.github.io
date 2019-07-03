@@ -11,8 +11,8 @@ permalink:				pretty
 
 # Setup
 title:					John Krug
-tagline:				' - library systems and analytics'
-description:			'Some things to do with Library Systems and Analytics. Maybe occasionally bicycles and other things.'
+tagline:				' - cycling, library systems and analytics'
+description:			'Some things to do with Cycling, Library Systems and Analytics. Maybe other stuff.'
 url:					https://jhkrug.github.io
 baseurl:				/
 paginate:				10
