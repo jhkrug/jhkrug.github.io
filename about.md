@@ -11,8 +11,9 @@ Husband, dad, grandad, cyclist.
 I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
 Digital Innovation team where I did things with library systems and
-analytics. Since April 2017, I work as a consultant in
-library systems and analytics.
+analytics. Since April 2017, I work as a consultant in library systems
+and analytics. Since mid 2019 I am available to guide for cycling
+related activities in the Granada/Alpujarras/Sierra Nevada areas.
 
 I'm interested in:
 
