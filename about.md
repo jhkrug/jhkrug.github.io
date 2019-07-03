@@ -64,3 +64,24 @@ Strava
 I'm on Strava as jhkrug if you want to look me up.
 
 <img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
+
+![Cycling - 2018](/public/images/vv-2018.png "Cycling - 2018")
+*Cycling - 2018*
+
+![Cycling - 2017](/public/images/vv-2017.png "Cycling - 2017")
+*Cycling - 2017*
+
+![Cycling - 2016](/public/images/vv-2016.png "Cycling - 2016")
+*Cycling - 2016*
+
+![Cycling - 2015](/public/images/vv-2015.png "Cycling - 2015")
+*Cycling - 2015*
+
+![Cycling - 2014](/public/images/vv-2014.png "Cycling - 2014")
+*Cycling - 2014*
+
+![Cycling - 2013](/public/images/vv-2013.png "Cycling - 2013")
+*Cycling - 2013*
+
+![Cycling - 2012](/public/images/vv-2012.png "Cycling - 2012")
+*Cycling - 2012*
