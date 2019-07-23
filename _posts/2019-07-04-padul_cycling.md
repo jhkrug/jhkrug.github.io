@@ -31,7 +31,7 @@ Sierra Nevada and the peak of Caballo (snow capped during the winter) at
 3011m.
 
 
-|[![Cart tracks](/public/images/cart_track.jpg "Cart tracks - a little imagination required"){: height="60%" width="60%"}](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/caballo.jpg "Caballo"){: height="60%" width="60%"}](/public/images/caballo.jpg) *Caballo*|
+|[![Cart tracks](/public/images/cart_track.jpg "Cart tracks - a little imagination required")](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/caballo.jpg "Caballo")](/public/images/caballo.jpg) *Caballo*|
 
 Leave the campo to join the GR-3208 to Albuñuelas passing
 a disused water viaduct on the right and a bodega and vineyard
@@ -59,21 +59,21 @@ There has been a lot of road building and renewal in Spain over the past
 30 years, there are ghosts of old roads poking out everywhere. I find
 them fascinating and wonder how they were to ride.
 
-|[![Old bridge](/public/images/old_bridge.jpg "Old bridge"){: height="60%" width="60%"}](/public/images/old_bridge.jpg) *Old bridge*|[![Road ghost](/public/images/old_road.jpg "Road ghost"){: height="60%" width="60%"}](/public/images/old_road.jpg) *Road ghost*|
+|[![Old bridge](/public/images/old_bridge.jpg "Old bridge")](/public/images/old_bridge.jpg) *Old bridge*|[![Road ghost](/public/images/old_road.jpg "Road ghost")](/public/images/old_road.jpg) *Road ghost*|
 
 Strangely (I've never seen one round here before), there is a
 large frog/toad in the road. It seems a bit frozen, maybe it suffered a
 close pass. I sympathise, stop, take a photo, shoo it into the gutter
 where it hopped off after a minute, and carry on.
 
-|[![Albuñuelas cliffs](/public/images/cliffs_albunuelas.jpg "Albuñuelas cliffs"){: height="60%" width="60%"}](/public/images/cliffs_albunuelas.jpg) *Albuñuelas cliffs*|[![Frog/Toad](/public/images/frog2.jpg "Frog/Toad"){: height="60%" width="60%"}](/public/images/frog2.jpg) *Frog/Toad*|[![Frog/Toad](/public/images/frog.jpg "Frog/Toad"){: height="60%" width="60%"}](/public/images/frog.jpg) *Frog/Toad*|
+|[![Albuñuelas cliffs](/public/images/cliffs_albunuelas.jpg "Albuñuelas cliffs")](/public/images/cliffs_albunuelas.jpg) *Albuñuelas cliffs*|[![Frog/Toad](/public/images/frog2.jpg "Frog/Toad")](/public/images/frog2.jpg) *Frog/Toad*|[![Frog/Toad](/public/images/frog.jpg "Frog/Toad")](/public/images/frog.jpg) *Frog/Toad*|
 
 At the roundabout I paused for some water and pictures of the
 [acequia](https://en.wikipedia.org/wiki/Acequia) and orange trees. The
 acequias are useful sources of water for splashing on your head when its
-hot. Also, most villages have a public drinking water fuente.
+hot. Also, most villages have a public drinking water fountain.
 
-|[![Acequia](/public/images/acequia.jpg "Acequia"){: height="60%" width="60%"}](/public/images/acequia.jpg) *Acequia*|[![Oranges](/public/images/orange_tree1.jpg "Oranges"){: height="60%" width="60%"}](/public/images/orange_tree1.jpg) *Oranges*|[![Oranges](/public/images/orange_tree2.jpg "Oranges"){: height="60%" width="60%"}](/public/images/orange_tree2.jpg) *Oranges*|
+|[![Acequia](/public/images/acequia.jpg "Acequia")](/public/images/acequia.jpg) *Acequia*|[![Oranges](/public/images/orange_tree1.jpg "Oranges")](/public/images/orange_tree1.jpg) *Oranges*|[![Oranges](/public/images/orange_tree2.jpg "Oranges")](/public/images/orange_tree2.jpg) *Oranges*|
 
 From here the descent is fast, steep, a bit of care is needed, there
 are some sharp bends. This takes you down to Saleres, one of those
@@ -82,7 +82,7 @@ into Restabal and take a look at the strange, enigmatic water
 fountain/monument/shrine/garden/something before dropping a little
 further to the Río Izbor and Río Torrente which feed Embalse de Béznar.
 
-|[![Saleres](/public/images/saleres.jpg "Saleres"){: height="60%" width="60%"}](/public/images/saleres.jpg) *Saleres*|[![Restabal 'something'](/public/images/restabal_fountain.jpg "Restabal 'something'"){: height="60%" width="60%"}](/public/images/restabal_fountain.jpg) *Restabal 'something'*|[![Dead oranges](/public/images/dead_oranges.jpg "Dead oranges"){: height="60%" width="60%"}](/public/images/dead_oranges.jpg) *Dead oranges*|
+|[![Saleres](/public/images/saleres.jpg "Saleres")](/public/images/saleres.jpg) *Saleres*|[![Restabal 'something'](/public/images/restabal_fountain.jpg "Restabal 'something'")](/public/images/restabal_fountain.jpg) *Restabal 'something'*|[![Dead oranges](/public/images/dead_oranges.jpg "Dead oranges")](/public/images/dead_oranges.jpg) *Dead oranges*|
 
 Now the final [climb](https://www.strava.com/segments/7316506) starts,
 it's 8.24km, averaging 4%. It's steady, wending it's way out of the
@@ -92,7 +92,7 @@ and down the Lecrín Valley towards the reservoir, Embalse de Beznar.
 Something to look at while you find your rhythm to cope with the heat
 and gradient.
 
-|[![Oranges](/public/images/orange_box.jpg "Oranges"){: height="60%" width="60%"}](/public/images/orange_box.jpg) *Oranges*|[![and lemons](/public/images/lemon_box.jpg "and lemons"){: height="60%" width="60%"}](/public/images/lemon_box.jpg) *and lemons*
+|[![Oranges](/public/images/orange_box.jpg "Oranges")](/public/images/orange_box.jpg) *Oranges*|[![and lemons](/public/images/lemon_box.jpg "and lemons")](/public/images/lemon_box.jpg) *and lemons*
 
 After Talara follow the Río Torrente valley road under the
 motorway viaduct, over the bridge and topping out at the bottom of
@@ -113,7 +113,7 @@ cyclists between Granada and the Alpujarras, buzzing with club pelotons
 on Saturday and Sunday. Into Padul and the last steep bits back to the
 house can be tough.
 
-|[![Río Dúrcal gorge](/public/images/durcal_gorge.jpg "Río Dúrcal gorge"){: height="70%" width="70%"}](/public/images/durcal_gorge.jpg) *Río Dúrcal gorge*|[![Puente de Lata](/public/images/tin_bridge.jpg "Puente de Lata"){: height="70%" width="70%"}](/public/images/tin_bridge.jpg) *Puente de Lata*|[![Laguna](/public/images/laguna.jpg "Laguna"){: height="70%" width="70%"}](/public/images/laguna.jpg) *Laguna*|[![Ciclista](/public/images/tránsito_ciclista.jpg "Ciclista"){: height="70%" width="70%"}](/public/images/tránsito_ciclista.jpg) *Ciclista*|
+|[![Río Dúrcal gorge](/public/images/durcal_gorge.jpg "Río Dúrcal gorge")](/public/images/durcal_gorge.jpg) *Río Dúrcal gorge*|[![Puente de Lata](/public/images/tin_bridge.jpg "Puente de Lata")](/public/images/tin_bridge.jpg) *Puente de Lata*|[![Laguna](/public/images/laguna.jpg "Laguna")](/public/images/laguna.jpg) *Laguna*|[![Ciclista](/public/images/tránsito_ciclista.jpg "Ciclista")](/public/images/tránsito_ciclista.jpg) *Ciclista*|
 
 A very satisfying spin to start the day. If you would like to experience
 this ride and many others here then get in touch. I'm available for
@@ -129,7 +129,7 @@ Together, we can plan and customise your adventure.
 
 A couple of bonus videos, click to play.
 
-|[![Pico Veleta](/public/images/pv_snap.png "Pico Veleta"){: height="70%" width="70%"}](/public/images/pico_veleta.mp4) *Pico Veleta*|[![Río Dúrcal waterfall](/public/images/rd_wf_snap.png "Río Dúrcal waterfall"){: height="50%" width="50%"}](/public/images/rio_durcal_waterfall.mp4) *Río Dúrcal waterfall*|
+|[![Pico Veleta](/public/images/pv_snap.png "Pico Veleta")](/public/images/pico_veleta.mp4) *Pico Veleta*|[![Río Dúrcal waterfall](/public/images/rd_wf_snap.png "Río Dúrcal waterfall")](/public/images/rio_durcal_waterfall.mp4) *Río Dúrcal waterfall*|
 
 ----
 
