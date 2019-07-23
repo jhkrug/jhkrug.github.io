@@ -12,7 +12,7 @@ I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
 Digital Innovation team where I did things with library systems and
 analytics. Since April 2017, I work as a consultant in library systems
-and analytics. Since mid 2019 I am available to guide for cycling
+and analytics. Since mid 2019 I am available to guide or arrange cycling
 related activities in the Granada/Alpujarras/Sierra Nevada areas.
 
 I'm interested in:
@@ -35,6 +35,8 @@ Get in contact at:
 [jhkrug@pm.me](mailto:jhkrug@pm.me)
 * email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
+* Strava: <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a>
+* Instagram: <a href="https://www.instagram.com/jhkrug">jhkrug</a>
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
 * Phone: +34 644 334 591 - You can use voice, Signal, Telegram or
 Whatsapp
@@ -62,7 +64,7 @@ lighting. I think it was in Seville a few years ago.
 Strava
 ------
 
-I'm on Strava as jhkrug if you want to look me up.
+I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a> if you want to look me up.
 
 <img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
 
