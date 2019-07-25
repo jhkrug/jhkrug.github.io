@@ -37,7 +37,7 @@ Leave the campo via a bumpy concrete track to join the GR-3208 to
 Albuñuelas passing a disused water viaduct on the right and a bodega
 and vineyard on the left.
 
-|[![Aquaduct](/public/images/aquaduct.jpg "Aquaduct")](/public/images/aquaduct.jpg) *Aquaduct*|[![Vineyard](/public/images/vineyard.jpg "Vineyard")](/public/images/vineyard.jpg) *Vineyard*|[![Futuro vino](/public/images/grapes.jpg "Futuro vino")](/public/images/grapes.jpg) *Futuro vino*|
+|[![Aqueduct](/public/images/aquaduct.jpg "Aqueduct")](/public/images/aquaduct.jpg) *Aqueduct*|[![Vineyard](/public/images/vineyard.jpg "Vineyard")](/public/images/vineyard.jpg) *Vineyard*|[![Futuro vino](/public/images/grapes.jpg "Futuro vino")](/public/images/grapes.jpg) *Futuro vino*|
 
 Past the turn to Conchar the climbing starts. On
 [Strava](https://www.strava.com/segments/11838665), it's 4.9km at an
@@ -47,14 +47,17 @@ room as they pass with a roar and hot waft of exhaust fumes and quarry
 dust.
 
 After the top a [fast descent](https://www.strava.com/segments/12537902)
-follows with great views of the Lecrín Valley to the left.
+follows, wind roaring in your ears, with great views of the Lecrín
+Valley to the left if you can take your eyes off the road for a second.
 
 |[![Above the Lecrín Valley](/public/images/lecrin_panorama.jpg "Above the Lecrín Valley")](/public/images/lecrin_panorama.jpg) *Above the Lecrín Valley*|
 
 Cross a bridge over the barranco and start
 [climbing](https://www.strava.com/segments/1223569) again with a
 vertical cliff above to the right and views into the Lecrín Valley on
-the left. It's 2km at 6% up to the roundabout outside Albuñuelas.
+the left. It's 2km at 6% up to the roundabout outside Albuñuelas. The
+sun is properly up now and the roadside crash barriers are making their
+peculiar pinging and creaking noises as they warm up and expand.
 
 There has been a lot of road building and renewal in Spain over the past
 30 years, there are ghosts of old roads poking out everywhere. I find
