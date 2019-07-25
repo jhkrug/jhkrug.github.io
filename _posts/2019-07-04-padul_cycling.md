@@ -6,11 +6,11 @@ tags: Spain Padul Granada Sierra_Nevada Alpujarra Dúrcal cycling cycle_guide cy
 
 Fancy doing some cycling in Spain, around the Sierra Nevada, Valle de
 Lecrín or La Alpujarra? Yeah, thought so. Join me on my photo[^1]
-tour ride this morning. I do this loop quite frequently. It's straight
+tour ride this morning. I do this loop frequently. It's straight
 out the door, about 40km with 750m elevation gain and takes around two
 hours. And it's stunning.
 
-[^1]:Most, but not all the photographs were taken during this ride. The videos are from previous excursions.
+[^1]:Some, but not all the photographs were taken during this ride.
 
 You can see the ride on
 [Strava](https://www.strava.com/activities/2503122223). Images and
@@ -19,23 +19,23 @@ videos in this post are clickable to enlarge or play.
 <!--more-->
 
 I started riding about quarter to eight, it was quite cloudy and
-slightly cooler than it has been recently, about 18°C. I live in the
-older part of Padul which is quite high so roll down to the main
+slightly cooler than it has been recently, about 18°C. I live in
+the older part of Padul which is quite high so roll down to the main
 street and over onto Los Molinos the camino going out into the campo,
-an area of large allotments or smallholdings. This is flat
-for a few km, providing an opportunity to warm up. The road goes past an
+an area of large allotments or smallholdings. This is flat for a
+few km, providing an opportunity to warm up. The road goes past an
 archaeological site where ancient cart tracks are eroded into the rock.
 It's one of only a few sites in Europe where such tracks exist. There
 are good views south east, across the Laguna and olive groves, to the
 Sierra Nevada and the peak of Caballo (snow capped during the winter) at
-3011m.
+3011m. The sound of cicadas through the olive and almond groves can be
+startlingly loud at this time of year.
 
+|[![Cart tracks](/public/images/cart_track.jpg "Cart tracks - a little imagination required")](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/caballo.jpg "Caballo")](/public/images/caballo.jpg) *Caballo*|[![Cicada noise](/public/images/cicada_snap.png "Cicada noise - click")](/public/images/cicadas.mp4) *Cicada noise - click*|
 
-|[![Cart tracks](/public/images/cart_track.jpg "Cart tracks - a little imagination required")](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/caballo.jpg "Caballo")](/public/images/caballo.jpg) *Caballo*|
-
-Leave the campo to join the GR-3208 to Albuñuelas passing
-a disused water viaduct on the right and a bodega and vineyard
-on the left.
+Leave the campo via a bumpy concrete track to join the GR-3208 to
+Albuñuelas passing a disused water viaduct on the right and a bodega
+and vineyard on the left.
 
 |[![Aquaduct](/public/images/aquaduct.jpg "Aquaduct")](/public/images/aquaduct.jpg) *Aquaduct*|[![Vineyard](/public/images/vineyard.jpg "Vineyard")](/public/images/vineyard.jpg) *Vineyard*|[![Futuro vino](/public/images/grapes.jpg "Futuro vino")](/public/images/grapes.jpg) *Futuro vino*|
 
@@ -43,7 +43,8 @@ Past the turn to Conchar the climbing starts. On
 [Strava](https://www.strava.com/segments/11838665), it's 4.9km at an
 average grade of about 4%. A nice lung opener. There is a quarry on the
 left and a couple of lorries going to and from. They leave plenty of
-room.
+room as they pass with a roar and hot waft of exhaust fumes and quarry
+dust.
 
 After the top a [fast descent](https://www.strava.com/segments/12537902)
 follows with great views of the Lecrín Valley to the left.
@@ -61,14 +62,15 @@ them fascinating and wonder how they were to ride.
 
 |[![Old bridge](/public/images/old_bridge.jpg "Old bridge")](/public/images/old_bridge.jpg) *Old bridge*|[![Road ghost](/public/images/old_road.jpg "Road ghost")](/public/images/old_road.jpg) *Road ghost*|
 
-Strangely (I've never seen one round here before), there is a
-large frog/toad in the road. It seems a bit frozen, maybe it suffered a
-close pass. I sympathise, stop, take a photo, shoo it into the gutter
-where it hopped off after a minute, and carry on.
+Strangely (I've never seen one round here before), there is a large
+frog/toad in the road. It seems a bit frozen, maybe it suffered a close
+pass. Having experienced a few over the years, I sympathise, stop, take a
+photo, shoo it into the gutter where it hopped off after a minute, and
+carry on.
 
 |[![Albuñuelas cliffs](/public/images/cliffs_albunuelas.jpg "Albuñuelas cliffs")](/public/images/cliffs_albunuelas.jpg) *Albuñuelas cliffs*|[![Frog/Toad](/public/images/frog2.jpg "Frog/Toad")](/public/images/frog2.jpg) *Frog/Toad*|[![Frog/Toad](/public/images/frog.jpg "Frog/Toad")](/public/images/frog.jpg) *Frog/Toad*|
 
-At the roundabout I paused for some water and pictures of the
+At the roundabout I pause for some water and pictures of the
 [acequia](https://en.wikipedia.org/wiki/Acequia) and orange trees. The
 acequias are useful sources of water for splashing on your head when its
 hot. Also, most villages have a public drinking water fountain.
@@ -76,11 +78,13 @@ hot. Also, most villages have a public drinking water fountain.
 |[![Acequia](/public/images/acequia.jpg "Acequia")](/public/images/acequia.jpg) *Acequia*|[![Oranges](/public/images/orange_tree1.jpg "Oranges")](/public/images/orange_tree1.jpg) *Oranges*|[![Oranges](/public/images/orange_tree2.jpg "Oranges")](/public/images/orange_tree2.jpg) *Oranges*|
 
 From here the descent is fast, steep, a bit of care is needed, there
-are some sharp bends. This takes you down to Saleres, one of those
-iconic looking white mountain pueblos. Now cruise along the valley
-into Restabal and take a look at the strange, enigmatic water
+are some sharp bends. Take a little time to appreciate the Albuñuelas
+gorge to the right. This descent takes you down to Saleres, one of
+those iconic looking white mountain pueblos. Now cruise along the
+valley into Restabal and take a look at the strange, enigmatic water
 fountain/monument/shrine/garden/something before dropping a little
-further to the Río Izbor and Río Torrente which feed Embalse de Béznar.
+further to the Río Izbor and Río Torrente which feed Embalse de
+Béznar.
 
 |[![Saleres](/public/images/saleres.jpg "Saleres")](/public/images/saleres.jpg) *Saleres*|[![Restabal 'something'](/public/images/restabal_fountain.jpg "Restabal 'something'")](/public/images/restabal_fountain.jpg) *Restabal 'something'*|[![Dead oranges](/public/images/dead_oranges.jpg "Dead oranges")](/public/images/dead_oranges.jpg) *Dead oranges*|
 
