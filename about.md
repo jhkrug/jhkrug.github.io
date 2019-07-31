@@ -6,7 +6,7 @@ title: About me
 ![Get them early](/public/images/me_and_gs_reading.png "Get them early")
 *Get them early*
 
-Husband, dad, grandad, cyclist. 
+Husband, dad, grandad, cyclist.
 
 I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
@@ -61,8 +61,13 @@ this.
 A photo I took of a poster protesting the privatisation of street
 lighting. I think it was in Seville a few years ago.
 
-Strava
-------
+Cycling
+-------
+
+My road bike, a bit old but then so am I.
+
+![Giant Allegre](/public/images/allegre.jpg "Giant Allegre")
+*Giant Allegre*
 
 I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a> if you want to look me up.
 
