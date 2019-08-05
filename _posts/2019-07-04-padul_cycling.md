@@ -5,7 +5,7 @@ tags: Spain Padul Granada Sierra_Nevada Alpujarra Dúrcal cycling cycle_guide cy
 ---
 
 Fancy doing some cycling in Spain, around the Sierra Nevada, Valle de
-Lecrín or La Alpujarra? Yeah, thought so. Then join me on my photo[^1]
+Lecrín or La Alpujarra? I thought so. Then join me on my photo[^1]
 tour ride this morning. I do this loop frequently. It's straight
 out the door, about 40km with 750m elevation gain and takes around two
 hours. And it's stunning.
@@ -31,13 +31,13 @@ Sierra Nevada and the peak of Caballo (snow capped during the winter) at
 3011m. The sound of cicadas through the olive and almond groves can be
 startlingly loud at this time of year.
 
-|[![Cart tracks](/public/images/cart_track.jpg "Cart tracks - a little imagination required")](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/caballo.jpg "Caballo")](/public/images/caballo.jpg) *Caballo*|[![Cicada noise](/public/images/cicada_snap.png "Cicada noise - click")](/public/images/cicadas.mp4) *Cicada noise - click*|
+|[![Cart tracks](/public/images/thumb.cart_track.jpg "Cart tracks - a little imagination required")](/public/images/cart_track.jpg) *Cart tracks - a little imagination required*|[![Caballo](/public/images/thumb.caballo.jpg "Caballo")](/public/images/caballo.jpg) *Caballo*|[![Cicada noise](/public/images/cicada_snap.png "Cicada noise - click")](/public/images/cicadas.mp4) *Cicada noise - click*|
 
 I leave the campo via a bumpy concrete track to join the GR-3208 to
 Albuñuelas passing a derelict water viaduct on the right and a bodega
 and vineyard on the left.
 
-|[![Aqueduct](/public/images/aquaduct.jpg "Aqueduct")](/public/images/aquaduct.jpg) *Aqueduct*|[![Vineyard](/public/images/vineyard.jpg "Vineyard")](/public/images/vineyard.jpg) *Vineyard*|[![Futuro vino](/public/images/grapes.jpg "Futuro vino")](/public/images/grapes.jpg) *Futuro vino*|
+|[![Aqueduct](/public/images/thumb.aquaduct.jpg "Aqueduct")](/public/images/aquaduct.jpg) *Aqueduct*|[![Vineyard](/public/images/thumb.vineyard.jpg "Vineyard")](/public/images/vineyard.jpg) *Vineyard*|[![Futuro vino](/public/images/thumb.grapes.jpg "Futuro vino")](/public/images/grapes.jpg) *Futuro vino*|
 
 Past the turn to Conchar the climbing starts. On
 [Strava](https://www.strava.com/segments/11838665), it's 4.9km at an
@@ -63,7 +63,7 @@ Over the past 30 years or so there has been a lot of road building
 and renewal in Spain and there are ghosts of old roads poking out
 everywhere. I find them fascinating and wonder how they were to ride.
 
-|[![Old bridge](/public/images/old_bridge.jpg "Old bridge")](/public/images/old_bridge.jpg) *Old bridge*|[![Road ghost](/public/images/old_road.jpg "Road ghost")](/public/images/old_road.jpg) *Road ghost*|
+|[![Old bridge](/public/images/thumb.old_bridge.jpg "Old bridge")](/public/images/old_bridge.jpg) *Old bridge*|[![Road ghost](/public/images/thumb.old_road.jpg "Road ghost")](/public/images/old_road.jpg) *Road ghost*|
 
 Strangely (I've never seen one round here before), there is a large
 frog/toad in the road. It seems a bit frozen, maybe it suffered a close
@@ -71,14 +71,14 @@ pass. Having experienced a few over the years, I sympathise, stop, take a
 photo, shoo it into the gutter where it hopped off after a minute, and
 carry on.
 
-|[![Albuñuelas cliffs](/public/images/cliffs_albunuelas.jpg "Albuñuelas cliffs")](/public/images/cliffs_albunuelas.jpg) *Albuñuelas cliffs*|[![Frog/Toad](/public/images/frog2.jpg "Frog/Toad")](/public/images/frog2.jpg) *Frog/Toad*|[![Frog/Toad](/public/images/frog.jpg "Frog/Toad")](/public/images/frog.jpg) *Frog/Toad*|
+|[![Albuñuelas cliffs](/public/images/thumb.cliffs_albunuelas.jpg "Albuñuelas cliffs")](/public/images/cliffs_albunuelas.jpg) *Albuñuelas cliffs*|[![Frog/Toad](/public/images/thumb.frog2.jpg "Frog/Toad")](/public/images/frog2.jpg) *Frog/Toad*|[![Frog/Toad](/public/images/thumb.frog.jpg "Frog/Toad")](/public/images/frog.jpg) *Frog/Toad*|
 
 At the roundabout I pause for some water and pictures of the
 [acequia](https://en.wikipedia.org/wiki/Acequia) and orange trees. The
 acequias are useful sources of water for splashing on your head when its
 hot. Also, most villages have a public drinking-water fountain.
 
-|[![Acequia](/public/images/acequia.jpg "Acequia")](/public/images/acequia.jpg) *Acequia*|[![Oranges](/public/images/orange_tree1.jpg "Oranges")](/public/images/orange_tree1.jpg) *Oranges*|[![Oranges](/public/images/orange_tree2.jpg "Oranges")](/public/images/orange_tree2.jpg) *Oranges*|
+|[![Acequia](/public/images/thumb.acequia.jpg "Acequia")](/public/images/acequia.jpg) *Acequia*|[![Oranges](/public/images/thumb.orange_tree1.jpg "Oranges")](/public/images/orange_tree1.jpg) *Oranges*|[![Oranges](/public/images/thumb.orange_tree2.jpg "Oranges")](/public/images/orange_tree2.jpg) *Oranges*|
 
 From here the descent is fast, steep, a bit of care is needed, there
 are some sharp bends. Take a little time to appreciate the Albuñuelas
@@ -89,7 +89,7 @@ fountain/monument/shrine/garden/something before dropping a little
 further to the Río Izbor and Río Torrente which feed Embalse de
 Béznar.
 
-|[![Saleres](/public/images/saleres.jpg "Saleres")](/public/images/saleres.jpg) *Saleres*|[![Restabal 'something'](/public/images/restabal_fountain.jpg "Restabal 'something'")](/public/images/restabal_fountain.jpg) *Restabal 'something'*|[![Dead oranges](/public/images/dead_oranges.jpg "Dead oranges")](/public/images/dead_oranges.jpg) *Dead oranges*|
+|[![Saleres](/public/images/thumb.saleres.jpg "Saleres")](/public/images/saleres.jpg) *Saleres*|[![Restabal 'something'](/public/images/thumb.restabal_fountain.jpg "Restabal 'something'")](/public/images/restabal_fountain.jpg) *Restabal 'something'*|[![Dead oranges](/public/images/thumb.dead_oranges.jpg "Dead oranges")](/public/images/dead_oranges.jpg) *Dead oranges*|
 
 Now the final [climb](https://www.strava.com/segments/7316506) starts,
 it's 8.24km, averaging 4%. It's steady, wending it's way out of the
@@ -99,7 +99,7 @@ and down the Lecrín Valley towards the reservoir, Embalse de Beznar.
 Something to look at while you find your rhythm to cope with the heat
 and gradient.
 
-|[![Oranges](/public/images/orange_box.jpg "Oranges")](/public/images/orange_box.jpg) *Oranges*|[![and lemons](/public/images/lemon_box.jpg "and lemons")](/public/images/lemon_box.jpg) *and lemons*
+|[![Oranges](/public/images/thumb.orange_box.jpg "Oranges")](/public/images/orange_box.jpg) *Oranges*|[![and lemons](/public/images/thumb.lemon_box.jpg "and lemons")](/public/images/lemon_box.jpg) *and lemons*
 
 After Talara follow the Río Torrente valley road under the
 motorway viaduct, over the bridge and topping out at the bottom of
@@ -120,19 +120,18 @@ cyclists between Granada and the Alpujarras, buzzing with club pelotons
 on Saturday and Sunday. Into Padul and the last steep bits back to the
 house can be tough.
 
-|[![Río Dúrcal gorge](/public/images/durcal_gorge.jpg "Río Dúrcal gorge")](/public/images/durcal_gorge.jpg) *Río Dúrcal gorge*|[![Puente de Lata](/public/images/tin_bridge.jpg "Puente de Lata")](/public/images/tin_bridge.jpg) *Puente de Lata*|[![Laguna](/public/images/laguna.jpg "Laguna")](/public/images/laguna.jpg) *Laguna*|[![Ciclista](/public/images/tránsito_ciclista.jpg "Ciclista")](/public/images/tránsito_ciclista.jpg) *Ciclista*|
+|[![Río Dúrcal gorge](/public/images/thumb.durcal_gorge.jpg "Río Dúrcal gorge")](/public/images/durcal_gorge.jpg) *Río Dúrcal gorge*|[![Puente de Lata](/public/images/thumb.tin_bridge.jpg "Puente de Lata")](/public/images/tin_bridge.jpg) *Puente de Lata*|[![Laguna](/public/images/thumb.laguna.jpg "Laguna")](/public/images/laguna.jpg) *Laguna*|[![Ciclista](/public/images/thumb.tránsito_ciclista.jpg "Ciclista")](/public/images/tránsito_ciclista.jpg) *Ciclista*|
 
 A very satisfying spin to start the day. If you would like to experience
 this ride and many others here then get in touch. I'm available for
 cycle guiding. I can help with accommodation or make suggestions.
-Airport transfers for Granada, Malaga and Almeria may be possible. I
-can provide a breakdown service (physical, mechanical, or mental, some
-rides here are tough) to get you back. I can guide you through the
-Alpujarras or ride with you up Pico Veleta, where you can cycle up to
-just below the peak at 3396m. Maybe some mountain biking on sections
-of the Trans-Nevada MTB trail. Padul is close to Granada if you fancy
-some sightseeing at the Alhambra. Or some walking, I don't just cycle.
-Together, we can plan and customise your adventure.
+Airport transfers may be possible. I can provide a breakdown service. I
+can guide you through the Alpujarras or ride with you up Pico Veleta,
+where you can cycle up to just below the peak at 3396m. Maybe some
+mountain biking on sections of the Trans-Nevada MTB trail. Padul is
+close to Granada if you fancy some sightseeing at the Alhambra. Or some
+walking, I don't just cycle. Together, we can plan and customise your
+adventure.
 
 A couple of bonus videos, click to play.
 
