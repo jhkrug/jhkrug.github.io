@@ -71,6 +71,10 @@ My road bike, a bit old but then so am I.
 
 I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a> if you want to look me up.
 
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1010469/activity-summary/c5b3afab0d9745a65cbaaef3f0b6dde477175ae1'></iframe>
+
+Some stats from Veloviewer.
+
 <img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
 
 ![Cycling - 2018](/public/images/vv-2018.png "Cycling - 2018")
