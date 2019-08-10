@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience cycling around Padul, Spain
+title: Cycling around Padul, Granada, Spain
 tags: Spain Padul Granada Sierra_Nevada Alpujarra Dúrcal cycling cycle_guide cycling_holiday strava
 ---
 
@@ -123,7 +123,7 @@ house can be tough.
 |[![Río Dúrcal gorge](/public/images/thumb.durcal_gorge.jpg "Río Dúrcal gorge")](/public/images/durcal_gorge.jpg) *Río Dúrcal gorge*|[![Puente de Lata](/public/images/thumb.tin_bridge.jpg "Puente de Lata")](/public/images/tin_bridge.jpg) *Puente de Lata*|[![Laguna](/public/images/thumb.laguna.jpg "Laguna")](/public/images/laguna.jpg) *Laguna*|[![Ciclista](/public/images/thumb.tránsito_ciclista.jpg "Ciclista")](/public/images/tránsito_ciclista.jpg) *Ciclista*|
 
 A very satisfying spin to start the day. If you would like to experience
-this ride and many others here then get in touch. I'm available for
+this ride and many others here then get [in touch](/about). I'm available for
 cycle guiding. I can help with accommodation or make suggestions.
 Airport transfers may be possible. I can provide a breakdown service. I
 can guide you through the Alpujarras or ride with you up Pico Veleta,
