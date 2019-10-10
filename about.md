@@ -39,7 +39,8 @@ Get in contact at:
 * Instagram: <a href="https://www.instagram.com/jhkrug">jhkrug</a>
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
 * Phone: +34 644 334 591 - You can use voice, Signal, Telegram or
-Whatsapp
+Whatsapp. I never answer voice from numbers not in my contacts so get in
+touch via a text mechanism first.
 
 Here are a couple of PDF format references from:
 * [Masud Khokhar, Assistant Director: Digital
