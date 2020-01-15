@@ -78,6 +78,10 @@ Some stats from Veloviewer.
 
 <img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
 
+
+![Cycling - 2019](/public/images/vv-2019.png "Cycling - 2019")
+*Cycling - 2019*
+
 ![Cycling - 2018](/public/images/vv-2018.png "Cycling - 2018")
 *Cycling - 2018*
 
