@@ -16,6 +16,7 @@ description:			'Some things to do with Cycling, Library Systems and Analytics. M
 url:					https://jhkrug.github.io
 baseurl:				/
 paginate:				10
+google_analytics: UA-55530748-1
 
 # About/contact
 author:
@@ -26,3 +27,4 @@ author:
 excerpt_separator: "\n\n"
 
 theme: jekyll-theme-slate
+
