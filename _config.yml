@@ -1,28 +1,27 @@
 # Dependencies
-markdown:				kramdown
-highlighter:			rouge
-plugins:				["jekyll-paginate"]
+markdown:	kramdown
+highlighter: rouge
+plugins: ["jekyll-paginate"]
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:				pretty
+permalink: pretty
 #relative_permalinks:	false
 
-# Setup
-title:					John Krug
-tagline:				' - cycling, library systems and analytics'
-description:			'Some things to do with Cycling, Library Systems and Analytics. Maybe other stuff.'
-url:					https://jhkrug.github.io
-baseurl:				/
-paginate:				10
+title: John Krug
+tagline: ' - cycling, library systems and analytics'
+description: 'Some things to do with Cycling, Library Systems and Analytics. Maybe other stuff.'
+url: https://jhkrug.github.io
+baseurl: /
+paginate: 10
 google_analytics: UA-55530748-1
 
 # About/contact
 author:
-  name:					John Krug
-  url:					https://jhkrug.github.io
-  email:				jhkrug@protonmail.com
+  name: John Krug
+  url: https://jhkrug.github.io
+  email: jhkrug@protonmail.com
 
 excerpt_separator: "\n\n"
 
