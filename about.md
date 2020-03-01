@@ -12,8 +12,8 @@ I used to work at [Lancaster University](http://www.lancaster.ac.uk)
 in the [Library](http://lancaster.ac.uk/library) as part of the
 Digital Innovation team where I did things with library systems and
 analytics. Since April 2017, I work as a consultant in library systems
-and analytics. Since mid 2019 I am available to guide or arrange cycling
-related activities in the Granada/Alpujarras/Sierra Nevada areas.
+and analytics. I am also available to guide cycling related activities in the
+Granada/Alpujarras/Sierra Nevada areas.
 
 I'm interested in:
 
@@ -23,7 +23,6 @@ analysis
 * library management systems
 * Europe and being European
 * cycling for sport, leisure and transport
-* sometimes other things
 
 There is more detail about consultancy work [here]({% post_url
 2017-01-17-retirement_slope %}#what-would-i-like-to-be-involved-with)
@@ -51,8 +50,6 @@ University Library (retd.)](/public/references/DS-JK-ref.pdf)
 
 If you use it ..... <a href="/atom.xml">Atom</a>.
 
-
-
 Wondering about the favicon? Probably not. Anyway it's a compression of
 this.
 
@@ -70,7 +67,8 @@ My road bike, a bit old but then so am I.
 ![Giant Allegre](/public/images/allegre.jpg "Giant Allegre")
 *Giant Allegre*
 
-I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a> if you want to look me up.
+I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a>
+if you want to look me up.
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1010469/activity-summary/c5b3afab0d9745a65cbaaef3f0b6dde477175ae1'></iframe>
 
