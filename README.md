@@ -1,1 +1,1 @@
-# John Krug
+# Home page - John Krug
