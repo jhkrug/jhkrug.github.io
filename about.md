@@ -67,36 +67,12 @@ My road bike, a bit old but then so am I.
 ![Giant Allegre](/public/images/allegre.jpg "Giant Allegre")
 *Giant Allegre*
 
-I'm on Strava as <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a>
+I'm on Strava,<a href="https://www.strava.com/athletes/jhkrug">jhkrug</a>,
 if you want to look me up.
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/1010469/activity-summary/c5b3afab0d9745a65cbaaef3f0b6dde477175ae1'></iframe>
 
 Some stats from Veloviewer.
 
-<img src="https://veloviewer.com/SigImage/f9b5e/4/5/M/p/abcdklghij.png">
+<img src="https://veloviewer.com/SigImage/f9b5e/3/3/M/n/hkgjlizzzz.png">
 
-
-![Cycling - 2019](/public/images/vv-2019.png "Cycling - 2019")
-*Cycling - 2019*
-
-![Cycling - 2018](/public/images/vv-2018.png "Cycling - 2018")
-*Cycling - 2018*
-
-![Cycling - 2017](/public/images/vv-2017.png "Cycling - 2017")
-*Cycling - 2017*
-
-![Cycling - 2016](/public/images/vv-2016.png "Cycling - 2016")
-*Cycling - 2016*
-
-![Cycling - 2015](/public/images/vv-2015.png "Cycling - 2015")
-*Cycling - 2015*
-
-![Cycling - 2014](/public/images/vv-2014.png "Cycling - 2014")
-*Cycling - 2014*
-
-![Cycling - 2013](/public/images/vv-2013.png "Cycling - 2013")
-*Cycling - 2013*
-
-![Cycling - 2012](/public/images/vv-2012.png "Cycling - 2012")
-*Cycling - 2012*
