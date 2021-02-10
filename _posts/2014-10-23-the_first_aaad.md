@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first Alma Analytics EPUG-UKI SIG away day 
+title: The first Alma Analytics EPUG-UKI SIG away day
 tags:
 - alma
 - analytics
@@ -13,8 +13,8 @@ tags:
 Well, what was it? Social get together, workshop,
 [unconference](http://en.wikipedia.org/wiki/Unconference), extended
 chat, exchange of experience, inaugural SIG meeting? A bit of all that.
-I've wrote up the day on the [wiki](https://lib-ldiv.lancs.ac.uk/dokuwiki)
-we agreed to set-up. These are personal reflections on the day.
+I've written up the day on the [wiki](https://lib-ldiv.lancs.ac.uk/dokuwiki)
+we agreed to set up. These are personal reflections on the day.
 
 <!--more-->
 
@@ -28,7 +28,7 @@ to meet next on the day after the EPUG-UKI in April. It's the nature of
 the UK transport economy that it's usually easier for everybody to get
 to Euston, London than it is, for example, to get from York to Lancaster.
 
-I had never organised anything remotely similar before so it was extremely
+I had never organized anything remotely similar before, so it was extremely
 useful to have a room at the British Library, with badges and catering
 arranged by Andrea Stubbs. I used Eventbrite to manage registration and
 SurveyMonkey to collect some feedback.
@@ -39,7 +39,7 @@ it. Seventeen people including myself where there. This seemed to indicate
 a reasonable interest in establishing an Alma Analytics UKI SIG.
 
 I had deliberately not created an agenda, just suggested a list of topics
-we might wish to discuss. We began with  some extended introductions in
+we might wish to discuss. We began with some extended introductions in
 an attempt that people would get to know each other, have some idea how
 others were working and hoped to be working with Analytics.
 
@@ -47,14 +47,14 @@ We spend some time discussing SCONUL reporting, the perceived
 documentation problems, issues with requests and usage reporting.
 I think it's fair to say that Lancaster, Sheffield and York are a few
 months further on with reporting than other institutions which, in some
-cases, have only had Alma for a few weeks. 
+cases, have only had Alma for a few weeks.
 
-After lunch I was feeling that the three of us had been dominating
-discussions so I proposed that we try some ad-hoc report construction
-tutorials. Edinburgh Napier people suggested a couple of reports and we
+After lunch, I was feeling that the three of us had been dominating
+discussions, so I proposed that we try some ad-hoc report construction
+tutorials. Edinburgh Napier people suggested a couple of reports, and we
 showed how to go about constructing the desired report in Analytics. This
 demonstrated the user interface and the use of filters and was effective
-in giving a feel of working with Analytics
+in giving a feel of working with Analytics.
 
 The feedback received from 14 attendees indicates that 100% thought the
 day was worthwhile and 100% would come to another one. The next meeting

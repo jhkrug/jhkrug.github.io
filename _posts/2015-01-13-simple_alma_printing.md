@@ -11,7 +11,7 @@ tags:
 Quite some time before implementing Alma we had decided that we would no
 longer be generating printed notices. The only thing we would be printing
 would be hold shelf slips to be placed into requested items before placing
-on the hold shelf. This simplifies the task but I think that the solution
+on the hold shelf. This simplifies the task, but I think that the solution
 we came up with is extensible if more printing than this is required.
 
 <!--more-->
@@ -38,7 +38,7 @@ default circulation desks in 'Fulfillment Configuration/Printers'.
 
 Now when a hold shelf slip is generated the html formatted email is
 sent to the email address 'alma_print@lancaster.ac.uk'. This is picked
-up at the university mail hubs and forwarded to the the email address
+up at the university mail hubs and forwarded to the email address
 'alma_print@library.lancs.ac.uk'. 'library.lancs.ac.uk' is a Linux server
 used by the library to perform a number of tasks, hold shelf slip printing
 being one.
@@ -57,10 +57,10 @@ configured to store a backup of the email and pass it to a shell script,
 
 'process_mail' is very simple. A case statement takes action based on
 the subject parameter. In our case we are only interested in hold shelf
-slips which have a normalised subject of 'Resource_Request_Slip'. A shell
+slips which have a normalized subject of 'Resource_Request_Slip'. A shell
 script, 'get_html_from_message', is called which extracts just the html from
 the file. 'get_html_from_message' is a tiny 'awk' script. We are not
-interested in the the attached logo or barcode for our hold slips. The
+interested in the attached logo or barcode for our hold slips. The
 html is passed to 'html2ps' to convert to postscript and directed to
 the defined printer. 'html2ps' is a widely available Linux utility.
 

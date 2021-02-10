@@ -8,20 +8,20 @@ tags:
 - library
 ---
 
-Some time ago Masud Khokar 
+Some time ago Masud Khokar
 ([@mkhokhar](https://twitter.com/mkhokhar))
-suggested it would be a nice idea to 
+suggested it would be a nice idea to
 use a Raspberry Pi with a couple of buttons attached as a quick mechanism
 for collecting some patron satisfaction data on leaving the library.
 
 'Did you manage to get done, what you came to the library for today?'
 
-We procured a Pi, some red and green buttons with LEDs, bits of wire and 
+We procured a Pi, some red and green buttons with LEDs, bits of wire and
 a break out board. Soldering not necessary, just a little wire stripping.
 
 <!--more-->
 
-The Pi has the Red Hat ([Pidora](http://pidora.ca)) 
+The Pi has the Red Hat ([Pidora](http://pidora.ca))
 flavour of Linux installed. A short python program,
 using the GPIO library, sets everything up and listens for button
 press events. When one is detected, the colour and time are logged to
@@ -39,20 +39,20 @@ Finished!
 
 ![Finshed](/public/images/hsom.jpg)
 
-The data is collected for analysis in a Postgres database and then 
-can be visualised within Tableau.
+The data is collected for analysis in a Postgres database and then
+can be visualized within Tableau.
 
 ![tableau analysis](/public/images/hsom_tableau.png)
 
-An interesting little project which we may get round to deploying. 
+An interesting little project which we may get round to deploying.
 A nicer perspex case would be better.
 
 The python code:
 
 ~~~~ none
-#!/usr/bin/env python2.7  
+#!/usr/bin/env python2.7
 from __future__ import print_function
-import RPi.GPIO as GPIO  
+import RPi.GPIO as GPIO
 import time
 import datetime
 import os, errno
@@ -79,13 +79,13 @@ def mkdir_p(path):
 def red_setup():
     GPIO.setup(RED_IN, GPIO.IN,
                pull_up_down=GPIO.PUD_UP)
-    GPIO.setup(RED_OUT, GPIO.OUT)  
+    GPIO.setup(RED_OUT, GPIO.OUT)
 
 
 def green_setup():
     GPIO.setup(GREEN_IN, GPIO.IN,
                pull_up_down=GPIO.PUD_UP)
-    GPIO.setup(GREEN_OUT, GPIO.OUT)  
+    GPIO.setup(GREEN_OUT, GPIO.OUT)
 
 
 def button_pressed(channel):
@@ -114,7 +114,7 @@ def button_pressed(channel):
           colour, file=fn)
     fn.close()
 
-    # Turn the led on
+    # Turn the LED on
     GPIO.output(oc, True)
     time.sleep(0.3)
     # and off
@@ -124,7 +124,7 @@ def button_pressed(channel):
 if __name__ == "__main__":
     mkdir_p(LOGDIR)
     GPIO.setwarnings(False)
-    GPIO.setmode(GPIO.BCM)  
+    GPIO.setmode(GPIO.BCM)
     green_setup()
     red_setup()
 
@@ -134,9 +134,9 @@ if __name__ == "__main__":
                           callback=button_pressed)
 
     while True:
-        try:  
+        try:
             time.sleep(10)
-        except KeyboardInterrupt:  
+        except KeyboardInterrupt:
             GPIO.cleanup()
             sys.exit()
 ~~~~
