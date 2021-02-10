@@ -19,7 +19,7 @@ I'm interested in:
 
 * library data, it's storage, retrieval, processing, protection and
 analysis
-* analytics and visualisation
+* analytics and visualization
 * library management systems
 * Europe and being European
 * cycling for sport, leisure and transport
@@ -41,23 +41,22 @@ Get in contact at:
 Whatsapp. I never answer voice from numbers not in my contacts so get in
 touch via a text mechanism first.
 
-Here are a couple of PDF format references from:
+Here are a couple of references from:
+
 * [Masud Khokhar, Assistant Director: Digital
 Innovation and Research Services, Lancaster University
 Library](/public/references/MK-JK-ref.pdf)
+
 * [David Summers, Deputy Director of Library Services, Lancaster
 University Library (retd.)](/public/references/DS-JK-ref.pdf)
 
-If you use it ..... <a href="/atom.xml">Atom</a>.
+Wondering about the favicon? Probably not. Anyway it's a compression of this.
 
-Wondering about the favicon? Probably not. Anyway it's a compression of
-this.
+![No privatization](/public/images/np.jpg "No privatization")
+*No privatization*
 
-![No privatisation](/public/images/np.jpg "No privatisation")
-*No privatisation*
-
-A photo I took of a poster protesting the privatisation of street
-lighting. I think it was in Seville a few years ago.
+A photo I took of a poster protesting the privatization of street lighting. I
+think it was in Seville a few years ago.
 
 Cycling
 -------
@@ -75,4 +74,3 @@ if you want to look me up.
 Some stats from Veloviewer.
 
 <img src="https://veloviewer.com/SigImage/f9b5e/3/3/M/n/hkgjlizzzz.png">
-

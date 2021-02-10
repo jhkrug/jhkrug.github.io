@@ -28,16 +28,8 @@ title: Home
       </ul>
     </span>
 
-    {% if post.content contains '<!--more-->' %}
-	  {{ post.content | split:'<!--more-->' | first }}
-
-	  <p><a href="{{ post.url }}">more...</a></p>
-
-    {% else %}
-
-	  {{ post.content }}
-
-    {% endif %}
+	{{ post.excerpt }}
+	<a href="{{ post.url }}">more ...</a>
 
     </div>
   {% endfor %}
@@ -59,4 +51,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
