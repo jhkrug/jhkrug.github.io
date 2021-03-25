@@ -21,7 +21,6 @@ I'm interested in:
 analysis
 * analytics and visualization
 * library management systems
-* Europe and being European
 * cycling for sport, leisure and transport
 
 There is more detail about consultancy work [here]({% post_url
@@ -37,7 +36,7 @@ Get in contact at:
 * Strava: <a href="https://www.strava.com/athletes/jhkrug">jhkrug</a>
 * Instagram: <a href="https://www.instagram.com/jhkrug">jhkrug</a>
 * [LinkedIn](http://www.linkedin.com/in/john-krug-2217a8129)
-* Phone: +34 644 334 591 - You can use voice, Signal, Telegram or
+* Phone: +34 644 334 591 - You can use Signal (preferred), Telegram or
 Whatsapp. I never answer voice from numbers not in my contacts so get in
 touch via a text mechanism first.
 
