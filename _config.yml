@@ -19,7 +19,6 @@ description: 'Mostly to do with library analytics/systems and cycling. Maybe oth
 url: https://john.libtics.org
 baseurl: /
 paginate: 10
-google_analytics: UA-55530748-1
 
 # About/contact
 author:
