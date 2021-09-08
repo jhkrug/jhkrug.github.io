@@ -9,6 +9,8 @@ University of Leeds, via Ex Libris, about providing some training materials for
 internal use. Leeds were interested in developing analytics capability within
 the institution, having recently (in 2019) become users of Alma.
 
+<!--more-->
+
 The project started in early 2020, just as the pandemic was picking
 up momentum. The current work has now mostly finished. Leeds wanted a
 comprehensive introduction to working with Alma Analytics. In agreement with
