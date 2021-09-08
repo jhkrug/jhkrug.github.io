@@ -11,8 +11,7 @@ tags:
 - consultancy
 - mentor
 - data
-- Ex_Libris
-- IGeLU/ELUNA_Analytics_SIWG
+- ex_libris
 ---
 
 It's time to begin semi-retirement. On 31<sup>st</sup> January I leave

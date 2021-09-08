@@ -4,10 +4,10 @@ title: The first Alma Analytics EPUG-UKI SIG away day
 tags:
 - alma
 - analytics
-- EPUG-UKI
+- epug-uki
 - sig
 - library
-- Ex_Libris
+- ex_libris
 ---
 
 Well, what was it? Social get together, workshop,

@@ -32,5 +32,6 @@ excerpt_seperator: "<!--more-->"
 
 asciidoc:
   excerpt_seperator: "\\ more"
+  require_front_matter_header: true
 
 asciidoctor: {}
