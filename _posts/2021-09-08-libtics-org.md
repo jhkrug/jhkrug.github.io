@@ -16,7 +16,7 @@ up momentum. The current work has now mostly finished. Leeds wanted a
 comprehensive introduction to working with Alma Analytics. In agreement with
 them, I developed a set of materials.
 
-I always had in mind that perhaps this material may be resuable and useful more
+I always had in mind that perhaps this material may be reusable and useful
 more widely. I would like the material to be open source. From the start a
 set of tools was chosen that would make it easier to generate multiple output
 formats including the libtics.org website. The material is written in asciidoc
