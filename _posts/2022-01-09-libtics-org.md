@@ -7,7 +7,6 @@ tags: library_analytics alma primo leganto aapl libtics libtics.org ex_libris
 It's been a quiet few months at [libtics.org](https://libtics.org) with the
 main item of note being the construction of vagrant and docker development
 environments for people who want to share in the analytics content development.
-More below .....
 
 But, I think I can say that libtics.org is now fully live.
 
