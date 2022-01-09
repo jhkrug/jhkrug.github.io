@@ -9,6 +9,8 @@ main item of note being the construction of vagrant and docker development
 environments for people who want to share in the analytics content development.
 More below .....
 
+But, I think I can say that libtics.org is now fully live.
+
 I've been trying to clarify pricing, and ....., it's all Creative Commons
 licensed, but voluntary contributions gratefully received. Also, trying to
 think about the the future viability of the project, being an independent
