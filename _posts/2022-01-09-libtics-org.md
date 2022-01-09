@@ -7,7 +7,6 @@ tags: library_analytics alma primo leganto aapl libtics libtics.org ex_libris
 It's been a quiet few months at [libtics.org](https://libtics.org) with the
 main item of note being the construction of vagrant and docker development
 environments for people who want to share in the analytics content development.
-
 But, I think I can say that libtics.org is now fully live.
 
 I've been trying to clarify pricing, and ....., it's all Creative Commons
@@ -15,8 +14,6 @@ licensed, but voluntary contributions gratefully received. Also, trying to
 think about the the future viability of the project, being an independent
 person outside Ex Libris, HE institutions and by extension the IgeLU and ELUNA
 communities.
-
-<!--more-->
 
 A reminder that libtics.org, the Ex Libris Analytics section/chapter, covers
 the following topics.
