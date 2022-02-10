@@ -29,9 +29,11 @@ Get in contact at:
 [jhkrug@pm.me](mailto:jhkrug@pm.me)
 * email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
-* Phone: +34 644 334 591 - You can use Signal (preferred), Telegram or
-Whatsapp. I never answer voice from numbers not in my contacts so get in
+* Phone: +34 644 334 591 - You can use Signal (preferred) or Telegram.
+. I never answer voice from numbers not in my contacts so get in
 touch via a text mechanism first.
+
+Here is a brief [résumé](/public/john-krug-r.pdf).
 
 Here are a couple of references from:
 
