@@ -22,6 +22,7 @@ analysis
 * analytics and visualization
 * library management systems
 * cycling for sport, leisure and transport
+* technical writing and docs-as-code
 
 Get in contact at:
 
