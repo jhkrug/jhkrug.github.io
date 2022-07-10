@@ -16,15 +16,15 @@ title: John Krug
 tagline: ' - library analytics/systems, cycling'
 description: 'Mostly to do with library analytics/systems and cycling. Maybe other stuff. <a href="/atom.xml">Atom</a>.'
 
-url: https://john.libtics.org
+url: https://jhkrug.github.io
 baseurl: /
 paginate: 10
 
 # About/contact
 author:
   name: John Krug
-  url: https://john.libtics.org
-  email: jhkrug@protonmail.com
+  url: https://jhkrug.github.io
+  email: jh.krug@gmail.com
 
 theme: jekyll-theme-slate
 
