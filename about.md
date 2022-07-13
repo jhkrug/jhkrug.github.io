@@ -15,7 +15,7 @@ I started up [libtics.org](https://libtics.org) based on a project with the
 University of Leeds. It is still available, and is CC licensed, but not
 currently being worked on.
 
-Since July, 4 2022 I work as a technical writer at
+Since July, 4 2022, I work as a technical writer at
 [OutSystems](https://outsystems.com).
 
 I'm interested in:
