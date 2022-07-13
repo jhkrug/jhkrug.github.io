@@ -26,6 +26,7 @@ analysis
 * library management systems
 * cycling for sport, leisure and transport
 * technical writing and docs-as-code
+* Cool tech @ OutSystems
 
 Get in contact at:
 
