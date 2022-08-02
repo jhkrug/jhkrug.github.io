@@ -7,13 +7,16 @@ title: About me
 
 I used to work at [Lancaster University](http://www.lancaster.ac.uk) in the
 [Library](http://lancaster.ac.uk/library) as part of the Digital Innovation
-team where I did things with library systems and analytics. Since April 2017,
-I, occasionally, work as a consultant in library systems and analytics.
-Possibly, depending on your cycling interests, I am also available to guide
-cycling related activities in the Granada/Alpujarras/Sierra Nevada areas.
+team where I did things with library systems and analytics. From April 2017,
+until June 2022, I occasionally worked as a consultant in library systems and
+analytics.
 
-Currently, I'm getting [libtics.org](https://libtics.org) up, and hopefully,
-sustainably running.
+I started up [libtics.org](https://libtics.org) based on a project with the
+University of Leeds. It is still available, and is CC licensed, but not
+currently being worked on.
+
+Since 4 July 2022, I work as a technical writer at
+[OutSystems](https://outsystems.com).
 
 I'm interested in:
 
@@ -23,12 +26,11 @@ analysis
 * library management systems
 * cycling for sport, leisure and transport
 * technical writing and docs-as-code
+* Cool tech @ OutSystems
 
 Get in contact at:
 
-* email: [jhkrug@protonmail.com](mailto:jhkrug@protonmail.com) or
-[jhkrug@pm.me](mailto:jhkrug@pm.me)
-* email: [jh.krug@gmail.com](mailto:jh.krug@gmil.com)
+* email: [jh.krug@gmail.com](mailto:jh.krug@gmail.com)
 * Twitter: [@jhkrug](https://twitter.com/jhkrug)
 * Phone: +34 644 334 591 - You can use Signal (preferred) or Telegram.
 . I never answer voice from numbers not in my contacts so get in
