@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-[![My long lost sibling](/public/images/jhk.jpg "My long lost sibling")](/public/images/jhk.jpg) *My long lost sibling*
+[![My long-lost sibling](/public/images/jhk.jpg "Mylong-lost sibling")](/public/images/jhk.jpg) *My long-lost sibling*
 
 I used to work at [Lancaster University](http://www.lancaster.ac.uk) in the
 [Library](http://lancaster.ac.uk/library) as part of the Digital Innovation
