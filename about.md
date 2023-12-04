@@ -53,7 +53,7 @@ Cycling
 
 I like to ride, often slowly, trying to look around and enjoy the scenery.
 
-Current main bike is a lovely purple Soma Double Cross.
+My main bicyle is a lovely purple Soma Double Cross.
 
 ![Soma Double Cross](/public/images/sdc.jpg "Soma Double Cross")
 *Soma Double Cross*
