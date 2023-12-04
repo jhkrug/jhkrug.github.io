@@ -26,7 +26,7 @@ analysis
 * library management systems
 * cycling for sport, leisure and transport
 * technical writing and docs-as-code
-* Cool tech @ OutSystems
+* Cool tech @SUSE
 
 Get in contact at:
 
@@ -51,7 +51,19 @@ University Library (retd.)](/public/references/DS-JK-ref.pdf)
 Cycling
 -------
 
-My road bike, a bit old, pero yo también.
+I like to ride, often slowly, trying to look around and enjoy the scenery.
+
+Current main bike is a lovely purple Soma Double Cross.
+
+![Soma Double Cross](/public/images/sdc.jpg "Soma Double Cross")
+*Soma Double Cross*
+
+I also have a Brompton. Sometimes, I sometime cycle it to inappropriate places for it's strengths.
+
+![Brompton](/public/images/brompton.jpg "My Brompton at about 3000m, going up Pico Veleta")
+*My Brompton at about 3000m, going up Pico Veleta*
+
+My previous road bike, a bit old, pero yo también.
 
 ![Giant Allegre](/public/images/allegre.jpg "Giant Allegre")
 *Giant Allegre*
