@@ -56,7 +56,7 @@ My main bicycle is a lovely purple Soma Double Cross.
 ![Soma Double Cross](/public/images/sdc.jpg "Soma Double Cross")
 *Soma Double Cross*
 
-I also have a Brompton. I sometime cycle it to inappropriate places for its strengths.
+I also have a Brompton. Sometimes, I cycle it to inappropriate places for its strengths.
 
 ![Brompton](/public/images/brompton.jpg "My Brompton at about 3000 m, going up Pico Veleta")
 *My Brompton at about 3000 m, going up Pico Veleta*
