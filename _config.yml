@@ -3,8 +3,8 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
-- jekyll-asciidoc
 - jekyll-paginate
+- jekyll-remote-theme
 
 # Permalinks
 #
@@ -13,8 +13,8 @@ permalink: pretty
 #relative_permalinks:	false
 
 title: John Krug
-tagline: ' - OutSystems, library analytics/systems, cycling'
-description: 'Mostly to do with library analytics/systems and cycling. Maybe other stuff. <a href="/atom.xml">Atom</a>.'
+tagline: ' - tech writer, cycling'
+description: 'Mostly to do with tech writing, SUSE, cloud infrastructure, open-source, library analytics/systems and cycling. Maybe other stuff. <a href="/atom.xml">Atom</a>.'
 
 url: https://jhkrug.github.io
 baseurl: /

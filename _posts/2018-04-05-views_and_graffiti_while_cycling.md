@@ -19,12 +19,12 @@ knob and balls. No doubt I'm misinterpreting some language.
 
 <!--more-->
 
-On the outskirts of Durcal is Puente de Lata, The Tin Bridge.
-Apparently, imported from France when it proved to be too weak for
-traffic and trams. It's for pedestrians and cyclists and spans Durcal
-Gorge. There has been at least one suicide. On the bridge approach
-pillars is the graffiti 'si tu saltas yo salto'. Poignantly, 'if you
-jump I fall', or maybe, 'if you jump I jump'.
+On the outskirts of Durcal is Puente de Lata, The Tin Bridge.  Apparently,
+imported from France when it proved to be too weak for traffic and trams. It's
+for pedestrians and cyclists and spans Durcal Gorge. There has been at least one
+suicide. Also, other mishaps. If you like the thrill, you can try bungee-jumping
+there. On the bridge approach pillars is the graffiti 'si tu saltas yo salto'.
+Poignantly, 'if you jump I fall', or maybe, 'if you jump I jump'.
 
 [![Puente de Lata](/public/images/bridge_1.jpg
 "Puente de Lata")](/public/images/bridge_1.jpg)
