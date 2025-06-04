@@ -22,12 +22,12 @@ I'm interested in:
 - Cloud and Linux tech @SUSE
 - library data, its storage, retrieval, processing, protection and analysis
 - analytics and visualization
-- cycling for sport, leisure and transport
+- cycling for sport, leisure, and transport
 
 Contact me:
 
 - email: [jh.krug@gmail.com](mailto:jh.krug@gmail.com)
-- Phone: +34 644 334 591 - You can use Signal (preferred) or Telegram.
+- Phone: +34 644 334 591 - Use Signal (preferred) or Telegram.
   I never answer voice from numbers not in my contacts, get in
   touch via a text mechanism first.
 
