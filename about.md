@@ -20,10 +20,8 @@ I'm interested in:
 
 - technical writing and docs-as-code
 - Cloud and Linux tech @SUSE
-- library data, it's storage, retrieval, processing, protection and
-  analysis
+- library data, its storage, retrieval, processing, protection and analysis
 - analytics and visualization
-- library management systems
 - cycling for sport, leisure and transport
 
 Contact me:
@@ -46,7 +44,7 @@ Here are a couple of references from:
 
 ## Cycling
 
-I like to ride, usually slowly, trying to look around and enjoy the scenery.
+I like to ride, usually sloqly, trying to look around and enjoy the scenery.
 
 My main bicycle is a lovely purple Soma Double Cross.
 
