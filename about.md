@@ -44,7 +44,7 @@ Here are a couple of references from:
 
 ## Cycling
 
-I like to ride, usually sloqly, trying to look around and enjoy the scenery.
+I like to ride, usually slowly, trying to look around and enjoy the scenery.
 
 My main bicycle is a lovely purple Soma Double Cross.
 
