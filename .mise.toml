@@ -1,0 +1,3 @@
+[tools]
+# Match the GitHub Pages build (https://pages.github.com/versions/)
+ruby = "3.3"

@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem 'sdbm'
+
+# The same gem set GitHub Pages builds with (https://pages.github.com/versions/).
+gem 'github-pages', group: :jekyll_plugins
+
+# Only for local previews (`jekyll serve`); Ruby 3+ no longer ships it.
 gem 'webrick'
-gem 'net-telnet'
-gem 'xmlrpc'
