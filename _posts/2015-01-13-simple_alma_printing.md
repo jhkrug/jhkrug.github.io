@@ -81,4 +81,4 @@ appropriately based on the subject of the emails received.
 The source is available at https://bitbucket.org/ditlul/alma-printing
 
 This post is available at https://developers.exlibrisgroup.com/blog
-and http://jhkrug.github.io
+and https://jhkrug.github.io

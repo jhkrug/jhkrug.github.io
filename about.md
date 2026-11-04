@@ -8,8 +8,8 @@ title: About me
 Since July 2023, I'm working at [SUSE](https://suse.com) in the technical
 documentation team.
 
-I used to work at [Lancaster University](http://www.lancaster.ac.uk) in the
-[Library](http://lancaster.ac.uk/library) as part of the Digital Innovation
+I used to work at [Lancaster University](https://www.lancaster.ac.uk) in the
+[Library](https://www.lancaster.ac.uk/library) as part of the Digital Innovation
 team where I did things with library systems and analytics.
 
 I started up [libtics.org](https://libtics.netlify.app) based on a project with
